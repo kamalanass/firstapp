@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController, NavParams } from 'ionic-angular';
+import { MyTeamsPage } from '../my-teams/my-teams';
 
 
 @Component({
@@ -17,4 +18,5 @@ export class TeamDetailPage {
     console.log('ionViewDidLoad TeamDetailPage');
   }
 
+ 
 }

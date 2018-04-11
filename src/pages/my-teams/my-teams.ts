@@ -8,6 +8,8 @@ import { TournamentsPage } from '../tournaments/tournaments';
 })
 export class MyTeamsPage {
 
+    
+
   constructor(public nav: NavController) {}
 
     goToTournaments(){
